@@ -7,5 +7,5 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: crp20802@gmail.com
 - 😄 Pronouns: He.
-- ⚡ Fun fact: I always get's confuse when writing b and d 😄.
+
 
