@@ -25,7 +25,7 @@
         <a href="https://linkedin.com/in/chetan patil" target="blank"><img align="center"
                         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chetan patil"
                         height="30" width="40" /></a>
-        <a href="https://instagram.com/chetan6780" target="blank"><img align="center"
+        <a href="https://instagram.com/chetan_6780" target="blank"><img align="center"
                         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chetan6780"
                         height="30" width="40" /></a>
         <a href="https://www.codechef.com/users/chetan_6780" target="blank"><img align="center"
