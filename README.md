@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chetan Patil</h1>
+<h3 align="center">Learning is fun✌️</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan6780&label=Profile%20views&color=0e75b6&style=flat"
                 alt="chetan6780" /> </p>
 
