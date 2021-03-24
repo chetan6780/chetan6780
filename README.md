@@ -35,9 +35,6 @@
         <a href="https://codeforces.com/profile/chetan_6780" target="blank"><img align="center"
                         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="chetan_6780"
                         height="30" width="40" /></a>
-        <a href="https://www.leetcode.com/chetan_6780" target="blank"><img align="center"
-                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="chetan_6780"
-                        height="30" width="40" /></a>
         <a href="https://auth.geeksforgeeks.org/user/crp20802/profile" target="blank"><img align="center"
                         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg"
                         alt="crp20802/profile" height="30" width="40" /></a>
