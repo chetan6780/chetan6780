@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **Django projects**
 
 - 👨‍💻 All of my projects are available at
-  [https://chetan6780.github.io/Portfolio_1/index.html](https://chetan6780.github.io/Portfolio_1/index.html)
+[https://chetan6780.github.io/Portfolio_1/index.html](https://chetan6780.github.io/Portfolio_1/index.html)
 
 - 💬 Ask me about **Anything**
 
@@ -109,13 +109,13 @@
         </a>
 </p>
 
-<p><img align="center"
+<p style="display:flex;align-items:center; justify-content: center;"><img align="center"
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=chetan6780&show_icons=true&locale=en&layout=compact&theme=radical"
                 alt="chetan6780" /></p>
 
-<p>&nbsp;<img align="center"
+<p style="display:flex;align-items:center; justify-content: center;">&nbsp;<img align="center"
                 src="https://github-readme-stats.vercel.app/api?username=chetan6780&show_icons=true&locale=en&theme=radical"
                 alt="chetan6780" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan6780&theme=radical" alt="chetan6780" /></p>
+<p style="display:flex;align-items:center; justify-content: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan6780&theme=radical"
+                alt="chetan6780" /></p>
