@@ -116,4 +116,4 @@
                 alt="chetan6780" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan6780&" alt="chetan6780" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan6780&theme=radical" alt="chetan6780" /></p>
