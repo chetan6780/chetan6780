@@ -113,7 +113,7 @@
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=chetan6780&show_icons=true&locale=en&layout=compact&theme=radical"
                 alt="chetan6780" /></p>
 
-<p>&nbsp;<img align="center"
+<p>&nbsp;<img align="right"
                 src="https://github-readme-stats.vercel.app/api?username=chetan6780&show_icons=true&locale=en&theme=radical"
                 alt="chetan6780" /></p>
 
