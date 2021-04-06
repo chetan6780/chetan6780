@@ -13,8 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Django projects**
 
-- 👨‍💻 All of my projects are available at
-[https://chetan6780.github.io/Portfolio_1/index.html](https://chetan6780.github.io/Portfolio_1/index.html)
+- 👨‍💻 All of my projects are available [here](https://chetan6780.github.io/Portfolio_1/index.html)
 
 - 💬 Ask me about **Anything**
 
