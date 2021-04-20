@@ -17,18 +17,7 @@
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **crp20802@gmail.com**
-<br>
-<details>
-    <summary>Interested in knowing more about me 👇 </summary>
 
-    <br />
-    <img alt="Hououin Kyoma" align="right" src="https://github.com/chetan6780/chetan6780/blob/main/assets/madScientist.gif">
-
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis atque aperiam laudantium voluptatum, quis ullam
-    saepe cumque mollitia quaerat sunt? Repudiandae vero dolorum distinctio commodi ipsam saepe nihil enim velit?
-    <br />
-
-</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -116,9 +105,6 @@
     </a>
 </p>
 
-<details>
-    <summary>⚡ Github Stats</summary>
-    <br>
 <p>
     <a href="https://github.com/chetan6780/chetan6780"> <img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan6780&hide= jupyter+notebook&theme=radical"
@@ -132,4 +118,3 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan6780&theme=radical"
         alt="chetan6780" />
 </p>
-</details>
