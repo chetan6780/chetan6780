@@ -22,7 +22,7 @@
     <summary>Interested in knowing more about me 👇 </summary>
 
     <br />
-    <img alt="Hououin Kyoma" align="right" src="">
+    <img alt="Hououin Kyoma" align="right" src="https://github.com/chetan6780/chetan6780/blob/main/assets/madScientist.gif">
 
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis atque aperiam laudantium voluptatum, quis ullam
     saepe cumque mollitia quaerat sunt? Repudiandae vero dolorum distinctio commodi ipsam saepe nihil enim velit?
