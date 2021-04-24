@@ -6,13 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=chetan6780" alt="chetan6780" /></a> </p>
 
-- 🔭 I’m currently working on [Smart-police Project](https://github.com/chetan6780/smart-police.git)
+- 🔭 I’m currently working on **React Js**
 
 - 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Django projects**
-
-- 👨‍💻 All of my projects are available [here](https://chetan6780.github.io/Portfolio_1/index.html)
 
 - 💬 Ask me about **Anything**
 
