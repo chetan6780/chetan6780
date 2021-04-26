@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **Django projects**
+- 👯 I’m looking to collaborate on **React-Django projects**
 
 - 💬 Ask me about **Anything**
 
