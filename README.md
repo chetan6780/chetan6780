@@ -6,14 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=chetan6780" alt="chetan6780" /></a> </p>
 
-- 🔭 I’m currently working on **React Js**
-
-- 🌱 I’m currently learning **DSA**
-
-- 👯 I’m looking to collaborate on **React-Django projects**
-
-- 💬 Ask me about **Anything**
-
 - 📫 How to reach me **crp20802@gmail.com**
 
 
