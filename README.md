@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **crp20802@gmail.com**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/chetan patil" target="blank"><img align="center"
@@ -30,7 +29,6 @@
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="crp20802/profile"
             height="30" width="40" /></a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -96,13 +94,15 @@
 </p>
 
 <p>
-    <a href="https://github.com/chetan6780/chetan6780"> <img align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan6780&hide= jupyter+notebook&theme=radical"
+
+<a href="https://github.com/chetan6780/chetan6780"> <img 
+            src="https://metrics.lecoq.io/chetan6780?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto"
             alt="Top Languages" /></a>
-    &nbsp;
-    <img align="center"
+&nbsp;
+<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=chetan6780&show_icons=true&locale=en&theme=radical"
         alt="chetan6780" />
+
 </p>
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan6780&theme=radical"
