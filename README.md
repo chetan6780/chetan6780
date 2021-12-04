@@ -1,15 +1,15 @@
 <h1 align="center">konnichiwa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan6780&label=Profile%20views&color=0e75b6&style=flat"
+<p> <img src="https://komarev.com/ghpvc/?username=chetan6780&label=Profile%20views&color=0e75b6&style=flat"
         alt="chetan6780" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=chetan6780" alt="chetan6780" /></a> </p>
 
-- 📫 How to reach me **crp20802@gmail.com**
+-   📫 How to reach me **crp20802@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
     <a href="https://linkedin.com/in/chetan patil" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chetan patil" height="30"
             width="40" /></a>
@@ -30,8 +30,9 @@
             height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+### Languages and Tools:
+
+<p>
     <a href="https://www.w3.org/html/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" />
@@ -93,14 +94,42 @@
     </a>
 </p>
 
-<a href="https://github.com/chetan6780/chetan6780"> <img 
-            src="https://metrics.lecoq.io/chetan6780?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto"
-            alt="Top Languages" style="margin-bottom: -35px;"/></a>
-<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=chetan6780&show_icons=true&locale=en&theme=radical"
-        alt="chetan6780" />
+### Github Stats:
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan6780&theme=radical"
-        alt="chetan6780" />
-</p>
+<table>
+    <tr>
+        <td>
+            <img src="https://metrics.lecoq.io/chetan6780?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto" alt="chetan6780">
+        </td>  
+        <td>
+            <table>
+                <tr>
+                    <td>
+                        <img src="https://github-readme-stats.vercel.app/api?username=chetan6780&show_icons=true&locale=en&theme=radical" alt="chetan6780">
+                    </td>
+                </tr>
+                <tr>                    
+                    <td>
+                        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetan6780&theme=radical"
+                        alt="chetan6780">                    
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td>
+            <img width="100%" height="auto"
+                src="https://activity-graph.herokuapp.com/graph?username=chetan6780&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"
+                alt="Daily Contribution Graph" />
+        </td>
+    </tr>
+    <tr colspan="2">
+        <td>
+			<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chetan6780&theme=monokai"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
+        </td>
+    </tr>
+</table>
