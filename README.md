@@ -8,8 +8,6 @@
 
 ### Connect with me 🌏
 
-📫 **crp20802@gmail.com**
-
 <p>
     <a href="https://linkedin.com/in/chetan patil" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chetan patil" height="30"
@@ -30,6 +28,8 @@
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="crp20802/profile"
             height="30" width="40" /></a>
 </p>
+
+📫 **crp20802@gmail.com**
 
 ### Languages and Tools 🧑‍💻
 
