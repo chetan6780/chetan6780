@@ -6,9 +6,10 @@
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=chetan6780" alt="chetan6780" /></a> </p>
 
--   📫 How to reach me **crp20802@gmail.com**
+### Connect with me 🌏
 
-<h3>Connect with me:</h3>
+📫 **crp20802@gmail.com**
+
 <p>
     <a href="https://linkedin.com/in/chetan patil" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chetan patil" height="30"
@@ -30,7 +31,7 @@
             height="30" width="40" /></a>
 </p>
 
-### Languages and Tools:
+### Languages and Tools 🧑‍💻
 
 <p>
     <a href="https://www.w3.org/html/" target="_blank"> <img
@@ -94,27 +95,24 @@
     </a>
 </p>
 
-### Github Stats:
+---
+
+<h3> Some Stats 📓 </h3>
+
+<div align="center">
+    <img src="https://metrics.lecoq.io/chetan6780?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto" alt="chetan6780">
+</div>
 
 <table>
+<th>Github Stats 🌟</th>
+<th>Current Streak & Contributions 🚀 </th>
     <tr>
         <td>
-            <img src="https://metrics.lecoq.io/chetan6780?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto" alt="chetan6780">
-        </td>  
+            <img src="https://github-readme-stats.vercel.app/api?username=chetan6780&show_icons=true&locale=en&theme=radical" alt="chetan6780">
+        </td>
         <td>
-            <table>
-                <tr>
-                    <td>
-                        <img src="https://github-readme-stats.vercel.app/api?username=chetan6780&show_icons=true&locale=en&theme=radical" alt="chetan6780">
-                    </td>
-                </tr>
-                <tr>                    
-                    <td>
-                        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetan6780&theme=radical"
-                        alt="chetan6780">                    
-                    </td>
-                </tr>
-            </table>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetan6780&theme=radical"
+                        alt="chetan6780">
         </td>
     </tr>
 </table>
