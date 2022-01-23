@@ -132,6 +132,3 @@
         </td>
     </tr>
 </table>
-
-
-![snake gif](https://github.com/chetan6780/chetan6780/blob/output/github-contribution-grid-snake.svg)
