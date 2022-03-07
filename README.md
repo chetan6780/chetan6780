@@ -99,10 +99,9 @@
 
 <h3> Some Stats 📓 </h3>
 
-<!-- <div align="center">
+<div align="center">
     <img src="https://metrics.lecoq.io/chetan6780?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto" alt="chetan6780">
 </div> 
- -->
 
 <table>
 <th>Github Stats 🌟</th>
