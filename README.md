@@ -1,7 +1,13 @@
-<h1 align="center">konnichiwa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"></h1>
+![image](https://user-images.githubusercontent.com/62825092/164681746-3d656b44-88b9-44ad-a509-705ddffaa787.png)
+
+<!-- <h1 align="center">konnichiwa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"></h1> -->
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+</h1>
 
 <p> <img src="https://komarev.com/ghpvc/?username=chetan6780&label=Profile%20views&color=0e75b6&style=flat"
         alt="chetan6780" /> </p>
+
+
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=chetan6780" alt="chetan6780" /></a> </p>
@@ -98,10 +104,10 @@
 ---
 
 <h3> Some Stats 📓 </h3>
-
+<!-- 
 <div align="center">
     <img src="https://metrics.lecoq.io/chetan6780?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto" alt="chetan6780">
-</div> 
+</div>  -->
 
 <table>
 <th>Github Stats 🌟</th>
