@@ -14,7 +14,7 @@
 
 ### Connect with me 🌏
 
-<p>
+<!-- <p>
     <a href="https://linkedin.com/in/chetan patil" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chetan patil" height="30"
             width="40" /></a>
@@ -34,7 +34,7 @@
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="crp20802/profile"
             height="30" width="40" /></a>
 </p>
-
+ -->
 📫 **crp20802@gmail.com**
 
 ### Languages and Tools 🧑‍💻
@@ -137,3 +137,5 @@
         </td>
     </tr>
 </table>
+
+<!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/channel/UCcSu42m7xhCumIKkKupnpRA)  -->
