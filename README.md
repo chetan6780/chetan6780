@@ -1,7 +1,8 @@
 ![image](https://user-images.githubusercontent.com/62825092/164681746-3d656b44-88b9-44ad-a509-705ddffaa787.png)
 
 <!-- <h1 align="center">konnichiwa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"></h1> -->
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 
+<!-- 	<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> -->
 </h1>
 
 <p> <img src="https://komarev.com/ghpvc/?username=chetan6780&label=Profile%20views&color=0e75b6&style=flat"
