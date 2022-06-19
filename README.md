@@ -5,38 +5,16 @@
 <!-- 	<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> -->
 </h1>
 
+
 <p> <img src="https://komarev.com/ghpvc/?username=chetan6780&label=Profile%20views&color=0e75b6&style=flat"
         alt="chetan6780" /> </p>
 
+ [![Linkedin Badge](https://img.shields.io/badge/Chetan-Patil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chetan-patil-662b021a7/)
 
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=chetan6780" alt="chetan6780" /></a> </p>
 
-### Connect with me 🌏
-
-<!-- <p>
-    <a href="https://linkedin.com/in/chetan patil" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chetan patil" height="30"
-            width="40" /></a>
-    <a href="https://instagram.com/chetan_6780" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chetan6780" height="30"
-            width="40" /></a>
-    <a href="https://www.codechef.com/users/chetan_6780" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chetan_6780" height="30"
-            width="40" /></a>
-    <a href="https://www.hackerrank.com/chetan_6780" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="chetan_6780" height="30"
-            width="40" /></a>
-    <a href="https://codeforces.com/profile/chetan_6780" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="chetan_6780" height="30"
-            width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/crp20802/profile" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="crp20802/profile"
-            height="30" width="40" /></a>
-</p>
- -->
-📫 **crp20802@gmail.com**
 
 ### Languages and Tools 🧑‍💻
 
@@ -102,13 +80,8 @@
     </a>
 </p>
 
----
 
-<h3> Some Stats 📓 </h3>
-<!-- 
-<div align="center">
-    <img src="https://metrics.lecoq.io/chetan6780?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto" alt="chetan6780">
-</div>  -->
+<h3> GitHub Stats 📈</h3>
 
 <table>
 <th>Github Stats 🌟</th>
