@@ -111,5 +111,3 @@
         </td>
     </tr>
 </table>
-
-<!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/channel/UCcSu42m7xhCumIKkKupnpRA)  -->
